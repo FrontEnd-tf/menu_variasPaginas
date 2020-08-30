@@ -1,13 +1,12 @@
-# Plantilla FrontEnd
-##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
+# Menú de Varias Páginas Web
+##### Ejemplo de una página web de varios enlaces internos.
 
 ~~~
-Metodología de carpetas en FrontEnd
-Estructura en imágenes (svg, jpg, iconos, etc)
-Readme, licencia MIT, gitignore
-Fuentes externas al OS
-Semiestructuras en código
-Comentarios introductorios
+Menú superior con un width total.
+Logo y nav, en header.
+main con unos margenes diferentes al menu superior.
+
+Se puede probar el correcto funcionamiento de los links internos del menú superior, para poder navegar correctamente a través de una web.
 ~~~
 
 > Este contenido se ha creado para mís alumnos, que se inician en el maravilloso mundo de la programación.
