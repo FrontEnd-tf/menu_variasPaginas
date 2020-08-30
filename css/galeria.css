@@ -1,0 +1,11 @@
+main{
+    display: flex;
+    justify-content: center;
+}
+/* solo con render.css de notion */
+img{
+    display: inline;
+}
+.galeria{
+   width: 880px;
+}

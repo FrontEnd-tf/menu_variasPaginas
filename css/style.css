@@ -15,3 +15,49 @@
 
 /* ******************************** */
 
+html{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #000;
+    background-color: #eee;
+}
+/* H's */
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+h6{
+    font-size: 0.8rem;
+}
+
+/* *** MENU **** */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(221, 221, 221);
+    padding:20px;
+}
+/* logotipo */
+
+/* menu */
+nav{
+    width: 30vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Separación de Header, Main, Footer */
+main{
+    margin: 50px 0;
+}
+
+/* Zona Media */
+#zonamedia{
+    padding: 20px;
+}
